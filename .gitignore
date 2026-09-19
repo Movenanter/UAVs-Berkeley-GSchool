@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+__pycache__/
+
+# Extracted video frames (regenerate with the script)
+frames/
+
+# Input video (too big for git, keep locally)
+*.mp4
